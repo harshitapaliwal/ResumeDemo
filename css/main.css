@@ -1,0 +1,389 @@
+.navbar-background{
+    background-color: #324158;
+}
+@media (max-width: 1400px)   {
+   .navbar-nav {
+       margin-left: -670px !important;
+   }
+   .heading-2{
+       padding-top: 400px !important;
+   }
+   .list-view{
+       display: block!important;
+   }
+   .bg-2{
+    height: 170%!important;
+   }
+   
+.position-progess-bar{
+    padding-left:0px!important;
+    padding-right:0px!important;
+}
+.bar-1{
+    width:55%!important;
+}
+.bar-2{
+    width:50%!important;
+}
+  .bar-3{
+      width:65%!important;
+  }
+.bar-4{
+  width:65%!important;
+}
+.bar-5{
+  width:60%!important;
+}
+.bar-6{
+  width:50%!important;
+}
+.bar-7{
+  width:55%!important;
+}
+
+.list-components{
+    padding-left: 0px !important;
+}
+.text-property-1{
+   margin-right: 17%!important;
+    text-align: right!important;
+
+}
+.text-property-2{
+     margin-left: 0px!important;
+    text-align: left!important;
+     
+}
+.padding{
+    margin-top: -80%!important;
+}
+.vertical-line-1 {
+    margin-left: px!important;
+}
+
+}
+.icon-bar{
+    background-color: white !important;
+    text-align: left !important;
+}
+a:link,a:visited{
+    color:white;
+}
+
+.nav{
+    padding-left: 650px !important;
+}
+.img{
+    height:300px;
+    width:300px;
+    border-radius: 50%;
+    margin-top:400px;
+}
+.align{
+text-align:center;
+color: white;
+}
+.nav li a:hover {
+        text-decoration: none;
+        background-color: transparent !important;
+        color:#EDEFF5;
+  }
+.bg-1{
+     background-image: url(../imgs/img33.jpg);
+      background-size: cover;
+      height:100%;
+      background-attachment: fixed;
+}
+.navbar{
+    margin:0px !important;
+    border-radius:0px !important;
+}
+.heading{
+    padding-top: 120px;
+    font-weight: bold;
+    color: white;
+    font-size: 120px;
+}
+.heading-1{
+    padding-top: 50px;
+    font-weight: bold;
+    color: white;
+    font-size: 70px;
+    padding-bottom: 50px;
+}
+.heading-2{
+    padding-top: 250px;
+    padding-bottom: 80px;
+    padding-left: 30px;
+    font-weight: bold;
+    color: black;
+    font-size: 70px;
+}
+.btn-property{
+     margin-top: 40px;
+    background-color: #324158;
+    color:white;
+   margin-right: 20px;
+    float: right;
+}
+.bg-2{
+     background-color: #EDEFF5;
+      background-size: cover;
+      height:95%;
+      background-attachment: fixed;
+}
+*{
+    font-family: 'Roboto';
+}
+.list-view{
+    display: flex;
+     font-size:20px;
+     list-style-type: none;
+   
+}
+.list-padding{
+    list-style-type: none;
+    padding-left:100px;
+    padding-right:50px;
+    padding-bottom: 50px;
+     
+}
+.year-color{
+    color:#94A3BA;
+}
+.bg-3{
+     background-image: url(../imgs/img30.jpg);
+      background-size: cover;
+      height:95%;
+      text-align: center;
+      background-attachment: fixed;
+}
+.position-progess-bar{
+    padding-left:560px;
+    padding-right:300px;
+}
+.bar-1{
+    
+    color: white;
+    width: 75%;
+    height: 20px;
+    background: #002945;
+    margin-left:60px;
+    margin-right:10px;
+}
+.bar-2{
+    
+    color: white;
+    width: 70%;
+    height: 20px;
+    background: #002945;
+    margin-left:68px;
+    margin-right:10px;
+}
+.bar-3{
+    
+    color: white;
+    width: 85%;
+    height: 20px;
+    background: #002945;
+    margin-left:55px;
+    margin-right:10px;
+}
+.bar-4{
+    
+    color: white;
+    width: 85%;
+    height: 20px;
+    background: #002945;
+    margin-left:67px;
+    margin-right:10px;
+}
+.bar-5{
+    
+    color: white;
+    width: 80%;
+    height: 20px;
+    background: #002945;
+    margin-left:28px;
+    margin-right:10px;
+}
+.bar-6{
+    
+    color: white;
+    width: 70%;
+    height: 20px;
+    background: #002945;
+    margin-left:31px;
+    margin-right:10px;
+}
+.bar-7{   
+    color: white;
+    width: 75%;
+    height: 20px;
+    background: #002945;
+    margin-left:32px;
+    margin-right:10px;
+}
+.bar-text-property{
+    color:white;
+display: flex;
+padding:5px;
+}
+.text-color{
+    color: white;
+    padding-bottom: 70px;
+    
+}
+
+.dot {
+  line-height: .25em;
+}
+
+.dot.one { 
+    font-size: 7em;
+    color: green;
+    margin-left:50px; }
+ .dot.two { 
+    font-size: 7em;
+    color: green;
+    margin-left:50px;
+    margin-top:-75px; }
+
+    
+.vertical-line-1{
+      width: 3px; 
+      background-color: green; 
+      height: 14%; 
+      text-align: center;
+      margin-left:66px;
+    }
+    .vertical-line-2{
+      width: 3px; 
+      background-color: green; 
+      height: 28%; 
+      text-align: center;
+      margin-left:66px;
+    }
+    .vertical-line-3{
+      width: 3px; 
+      background-color: green; 
+      height: 32%; 
+      text-align: center;
+      margin-left:66px;
+    }
+     .vertical-line-4{
+      width: 3px; 
+      background-color: green; 
+      height: 32%; 
+      text-align: center;
+      margin-left:66px;
+    }
+    .bg-4{
+     background-image: url(../imgs/img28.jpg);
+      background-size: cover; 
+      text-align: center;
+      background-attachment: fixed;
+}
+.list-components{
+    padding-left: 180px;
+    text-align: left;
+    
+}
+.year-color-2{
+color:green;
+font-weight: bold;
+}
+.text-property-1{
+
+padding-top:52px;
+text-align: left;
+padding-left:50px;
+
+color: white;
+}
+.text-property-2{
+    
+text-align: right;
+margin-top:175px;
+margin-left: 230px; 
+
+color:white;
+}
+.text-property-3{
+text-align: right;
+margin-top:225px;
+color:white;
+}
+.text-property-4{
+text-align: right;
+margin-top:275px;
+
+color:white;
+}
+.footer{
+    font-size: large;
+    min-height: 50px;
+    display: flex;
+      background-color: #324158;
+}
+.social-icons{
+    float: right;
+    font-size: 20px;
+    margin:5px;
+}
+a.social-icons:visited{
+    color: white;
+   
+}
+
+.resumeLink, .resumeLink:hover, .resumeLink:active, .resumeLink:visited, .resumeLink:focus {
+    text-decoration:none;
+    color: white;
+}
+
+.dot.one-trial { 
+    font-size: 7em;
+    color: green;
+     }
+ .dot.two-trial { 
+    font-size: 7em;
+    color: green;
+   
+    margin-top:-75px; }
+
+    
+.vertical-line-1-trial{
+      width: 3px; 
+      background-color: green; 
+      height: 14%; 
+      text-align: center;
+      
+    }
+    .vertical-line-2-trial{
+      width: 3px; 
+      background-color: green; 
+      height: 28%; 
+      text-align: center;
+      
+    }
+    .vertical-line-3-trial{
+      width: 3px; 
+      background-color: green; 
+      height: 32%; 
+      text-align: center;
+     
+    }
+     .vertical-line-4-trial{
+      width: 3px; 
+      background-color: green; 
+      height: 32%; 
+      text-align: center;
+     
+    }
+  
+   .text-property-1-trial{
+       
+       font-size: 17px;
+       color: white
+   }
+   
